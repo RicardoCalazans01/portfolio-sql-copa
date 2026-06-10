@@ -7,7 +7,7 @@
 ---
 
 ## 🎓 2. Certificados DataCamp
-* [Clique aqui para visualizar o Certificado de Nivelamento SQL](LINK_DO_CERTIFICADO_AQUI)
+* [Clique aqui para visualizar o Certificado de Nivelamento SQL](https://drive.google.com/drive/folders/1Sgx-mrifMBkxPb-B4YyRP8TSOkqKgVwg?usp=sharing)
 > *Nota: O link acima será atualizado com a imagem/link de comprovação do módulo concluído.*
 
 ---
