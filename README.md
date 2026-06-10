@@ -1,7 +1,7 @@
 # 🏆 Portfólio SQL: Engenharia Reversa, Normalização e Análise Histórica da Copa do Mundo
 
 ## 🎬 1. Vídeo de Demonstração
-* [Clique aqui para assistir ao Pitch de Demonstração (Máximo 1 Minuto)](LINK_DO_VIDEO_AQUI)
+* [Clique aqui para assistir ao Pitch de Demonstração (Máximo 1 Minuto)](https://drive.google.com/drive/folders/1kHx7RzhnnYFFYjgINhPjKGIaIjEG6xC-?usp=drive_link)
 > *Nota: O link acima será atualizado assim que a gravação do pitch de 1 minuto for concluída.*
 
 ---
